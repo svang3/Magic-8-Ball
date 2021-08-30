@@ -1,4 +1,4 @@
-# Magic-8-Ball
+# Codecademy -- Magic-8-Ball
 
 # This program is to answer any "Yes" or "No" question with different fortune each time it executes
 
